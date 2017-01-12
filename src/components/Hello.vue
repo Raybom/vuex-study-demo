@@ -33,7 +33,7 @@ export default {
     ]),
     add(name,href) {
       console.log(name,href);
-      this.$store.commit('addStarList',{
+      this.addStarList({
         title: name,
         href: href
       })

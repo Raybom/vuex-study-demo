@@ -8,8 +8,8 @@ const store = {
             title: "GitHub",
             href: "https://github.com/"
         },{
-            title: "Google翻译",
-            href: "https://translate.google.cn/"
+            title: "SegmentFault",
+            href: "https://segmentfault.com/"
         }]
     },
     mutations: {
